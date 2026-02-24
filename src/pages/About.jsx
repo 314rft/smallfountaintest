@@ -4,7 +4,7 @@ export default function About() {
   return (
     <Layout>
       <header>
-        <h1>About This Project</h1>
+        <h1>About SmallFountain.net</h1>
       </header>
       <p>This site explains the success and positive impact of AI.</p>
     </Layout>
